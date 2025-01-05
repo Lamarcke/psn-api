@@ -1,6 +1,6 @@
 {
-  "name": "psn-api",
-  "description": "A well-tested library that lets you get trophy, user, and game data from the PlayStation Network.",
+  "name": "@lamarcke/psn-api",
+  "description": "A fork of psn-api with extra endpoints.",
   "keywords": [
     "psn",
     "playstation",
