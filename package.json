@@ -1,5 +1,5 @@
 {
-  "name": "psn-api",
+  "name": "@lamarcke/psn-api",
   "description": "A well-tested library that lets you get trophy, user, and game data from the PlayStation Network.",
   "keywords": [
     "psn",
@@ -10,7 +10,7 @@
     "ps4",
     "ps5"
   ],
-  "version": "0.0.0-development",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/psn-api.esm.js",
   "typings": "dist/index.d.ts",
@@ -110,7 +110,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/achievements-app/psn-api.git"
+    "url": "https://github.com/Lamarcke/psn-api.git"
   },
   "resolutions": {
     "rxjs": "^6.6.0"
