@@ -10,7 +10,7 @@
     "ps4",
     "ps5"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/psn-api.esm.js",
   "typings": "dist/index.d.ts",
